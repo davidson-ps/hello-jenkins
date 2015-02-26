@@ -1,3 +1,8 @@
 #!/bin/sh
 
-./node_modules/.bin/mocha --recursive -R ./test/*
+# run all tests inside the test directory
+./node_modules/.bin/mocha ./test/*.js
+
+if [ ! -d "test" ]; then
+  # Control will enter here if $DIRECTORY exists.
+fi
