@@ -3,6 +3,9 @@
 # run all tests inside the test directory
 ./node_modules/.bin/mocha ./test/*.js
 
-if [ ! -d test ]; then
-  # Control will enter here if $DIRECTORY exists.
+if [ -d ./test ]; then
+# Control will enter here if 'test' exists.
+    echo "That directory exists"
+else
+    echo "That directory doesn't exists"
 fi
