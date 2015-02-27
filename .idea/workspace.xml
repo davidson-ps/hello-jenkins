@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad113e13-e3ec-409f-a011-27cc3efa3527" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/script/test" afterPath="$PROJECT_DIR$/script/test" />
-    </list>
+    <list default="true" id="ad113e13-e3ec-409f-a011-27cc3efa3527" name="Default" comment="" />
     <ignored path="hello-jenkins.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/script/test">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.88095236" vertical-offset="774" max-vertical-offset="1560">
-              <caret line="96" column="48" selection-start-line="96" selection-start-column="47" selection-end-line="96" selection-end-column="47" />
+              <caret line="96" column="47" selection-start-line="96" selection-start-column="47" selection-end-line="96" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -338,7 +336,7 @@
     <entry file="file://$PROJECT_DIR$/script/test">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.88095236" vertical-offset="774" max-vertical-offset="1560">
-          <caret line="96" column="48" selection-start-line="96" selection-start-column="47" selection-end-line="96" selection-end-column="47" />
+          <caret line="96" column="47" selection-start-line="96" selection-start-column="47" selection-end-line="96" selection-end-column="47" />
           <folding />
         </state>
       </provider>
