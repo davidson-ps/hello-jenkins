@@ -3,12 +3,14 @@
 ############################################################################################################
 # Run unit tests
 ############################################################################################################
+
 # run all tests inside the test directory
 ./node_modules/.bin/mocha ./test/*.js
 
 ############################################################################################################
 # Validate app directory structure
 ############################################################################################################
+
 # Determine if a 'test' directory exists in the root directory
 if [ -d ./test ]; then
     echo "'test' directory exists"
@@ -40,4 +42,36 @@ if [ -d ./src ]; then
     echo "'src' directory exists"
 else
     echo "'src' directory doesn't exist"
+fi
+
+############################################################################################################
+# Validate app file dependencies
+############################################################################################################
+
+# Determine if 'karma.conf.js' exists in the root directory
+if [ -f ./karma.conf.js ]; then
+    echo "'karma.conf.js' exists"
+else
+    echo "'karma.conf.js' doesn't exist"
+fi
+
+# Determine if 'sprout-package.json' exists in the root directory
+if [ -f ./sprout-package.json ]; then
+    echo "'sprout-package.json' exists"
+else
+    echo "'sprout-package.json' doesn't exist"
+fi
+
+# Determine if 'LICENSE' exists in the root directory
+if [ -f ./LICENSE ]; then
+    echo "'LICENSE' exists"
+else
+    echo "'LICENSE' doesn't exist"
+fi
+
+# Determine if 'README.md' exists in the root directory
+if [ -f ./README.md ]; then
+    echo "'README.md' exists"
+else
+    echo "'README.md' doesn't exist"
 fi
