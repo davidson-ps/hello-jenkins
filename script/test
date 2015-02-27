@@ -19,6 +19,18 @@ fi
 # Determine if a 'dist' directory exists in the root directory
 if [ -d ./dist ]; then
     echo "'dist' directory exists"
+    # Determine if a 'dist/server' directory exists in the root directory
+    if [ -d ./dist/server ]; then
+        echo "'dist/server' directory exists"
+    else
+        echo "'dist/server' directory doesn't exist"
+    fi
+    # Determine if a 'dist/client' directory exists in the root directory
+    if [ -d ./dist/client ]; then
+        echo "'dist/client' directory exists"
+    else
+        echo "'dist/client' directory doesn't exist"
+    fi
 else
     echo "'dist' directory doesn't exist"
 fi
