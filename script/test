@@ -94,4 +94,6 @@ if $PASS; then
     echo "Build has succeeded!"
 else
     echo "Build has FAILED."
+    # 1 tells Jenkins that the build has failed
+    exit 1
 fi
