@@ -7,9 +7,3 @@ PASS=true
 
 # run all tests inside the test directory
 ./node_modules/.bin/mocha ./test/*.js
-
-############################################################################################################
-# Run JSHint
-############################################################################################################
-
-~/node_modules/jshint/bin/jshint writingfield/static/writingfield/writingfield.js --reporter=jslint > jshint.xml | true
