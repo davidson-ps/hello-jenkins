@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ad113e13-e3ec-409f-a011-27cc3efa3527" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/script/deploy" afterPath="$PROJECT_DIR$/script/deploy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/script/validate" afterPath="$PROJECT_DIR$/script/validate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="hello-jenkins.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,11 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="validate" pinned="false" current-in-tab="true">
+      <file leaf-file-name="validate" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/script/validate">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.24144869" vertical-offset="0" max-vertical-offset="497">
-              <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1650">
+              <caret line="24" column="74" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -66,11 +68,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="deploy" pinned="false" current-in-tab="false">
+      <file leaf-file-name="deploy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/script/deploy">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
-              <caret line="8" column="49" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.06036217" vertical-offset="0" max-vertical-offset="497">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -98,8 +100,8 @@
         <option value="$PROJECT_DIR$/test/test.js" />
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/script/test" />
-        <option value="$PROJECT_DIR$/script/deploy" />
         <option value="$PROJECT_DIR$/script/validate" />
+        <option value="$PROJECT_DIR$/script/deploy" />
       </list>
     </option>
   </component>
@@ -400,18 +402,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script/deploy">
+    <entry file="file://$PROJECT_DIR$/script/validate">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
-          <caret line="8" column="49" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1650">
+          <caret line="24" column="74" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script/validate">
+    <entry file="file://$PROJECT_DIR$/script/deploy">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24144869" vertical-offset="0" max-vertical-offset="497">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.06036217" vertical-offset="0" max-vertical-offset="497">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
