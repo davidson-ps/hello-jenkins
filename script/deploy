@@ -1,10 +1,2 @@
 #!/bin/sh
 
-ssh app@104.131.108.236 <<EOF
-  mkdir WILLTHISWORK
-  cd hello-jenkins
-  git pull
-  npm install --production
-  forever app.js
-  exit
-EOF
