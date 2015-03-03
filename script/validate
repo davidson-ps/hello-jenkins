@@ -7,4 +7,3 @@ PASS=true
 
 # run all tests inside the test directory
 ./node_modules/.bin/mocha ./test/*.js
-./node_modules/.bin/jasmine ./test/*.js
