@@ -37,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="validate" pinned="false" current-in-tab="false">
+      <file leaf-file-name="validate" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/script/validate">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1575">
-              <caret line="20" column="34" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.54325956" vertical-offset="0" max-vertical-offset="1575">
+              <caret line="18" column="73" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -70,11 +70,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="deploy" pinned="false" current-in-tab="true">
+      <file leaf-file-name="deploy" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/script/deploy">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.27162978" vertical-offset="0" max-vertical-offset="497">
-              <caret line="9" column="49" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+              <caret line="9" column="52" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -357,18 +357,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script/validate">
+    <entry file="file://$PROJECT_DIR$/script/deploy">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1575">
-          <caret line="20" column="34" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <caret line="9" column="52" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script/deploy">
+    <entry file="file://$PROJECT_DIR$/script/validate">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27162978" vertical-offset="0" max-vertical-offset="497">
-          <caret line="9" column="49" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.54325956" vertical-offset="0" max-vertical-offset="1575">
+          <caret line="18" column="73" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
           <folding />
         </state>
       </provider>
